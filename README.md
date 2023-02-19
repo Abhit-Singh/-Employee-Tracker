@@ -8,7 +8,8 @@ Here is the link to a video which demonstrates how to use this Employee Tracker 
 
 https://youtu.be/76nqNUPQJb8
 
-This is a screenshot of Employee Tracker  -
+This is a screenshot of Employee Tracker  -<img width="1440" alt="Screen Shot 2023-02-19 at 9 19 06 pm" src="https://user-images.githubusercontent.com/110076459/219942430-4354811a-e44f-4ea7-8745-c61e43a75b39.png">
+
 
 
 ## credits
